@@ -1,0 +1,94 @@
+{
+  "letter": "B",
+  "vowels": [
+    {
+      "vowel": {
+        "text": "a",
+        "sound": ""
+      },
+      "word": {
+        "text": "bate",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "e",
+        "sound": ""
+      },
+      "word": {
+        "text": "bebe",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "i",
+        "sound": ""
+      },
+      "word": {
+        "text": "bidón",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "o",
+        "sound": ""
+      },
+      "word": {
+        "text": "bola",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "u",
+        "sound": ""
+      },
+      "word": {
+        "text": "buque",
+        "sound": ""
+      }
+    }
+  ],
+  "words": [
+    {
+      "text": "Bata",
+      "sound": ""
+    },
+    {
+      "text": "Beso",
+      "sound": ""
+    },
+    {
+      "text": "Bebida",
+      "sound": ""
+    },
+    {
+      "text": "Bonito",
+      "sound": ""
+    },
+    {
+      "text": "Bueno",
+      "sound": ""
+    },
+    {
+      "text": "Bota",
+      "sound": ""
+    }
+  ],
+  "sentences": [
+    {
+      "text": "El bebe es bonito",
+      "sound": ""
+    },
+    {
+      "text": "Toma el bate y la pelota",
+      "sound": ""
+    }
+  ],
+  "video": {
+    "lunacreciente": "https://www.youtube.com/watch?v=o6axPDGbCdo"
+  }
+}
