@@ -1,0 +1,91 @@
+{
+  "letter": "C",
+  "vowels": [
+    {
+      "vowel": {
+        "text": "a",
+        "sound": ""
+      },
+      "word": {
+        "text": "Casa",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "e",
+        "sound": ""
+      },
+      "word": {
+        "text": "Ceja",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "i",
+        "sound": ""
+      },
+      "word": {
+        "text": "Cinco",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "o",
+        "sound": ""
+      },
+      "word": {
+        "text": "Cola",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "u",
+        "sound": ""
+      },
+      "word": {
+        "text": "cuna",
+        "sound": ""
+      }
+    }
+  ],
+  "words": [
+    {
+      "text": "Carro",
+      "sound": ""
+    },
+    {
+      "text": "Cesta",
+      "sound": ""
+    },
+    {
+      "text": "Cine",
+      "sound": ""
+    },
+    {
+      "text": "Cocina",
+      "sound": ""
+    },
+    {
+      "text": "Culebra",
+      "sound": ""
+    }
+
+  ],
+  "sentences": [
+    {
+      "text": "El carro es verde",
+      "sound": ""
+    },
+    {
+      "text": "Toma el bate y la pelota",
+      "sound": ""
+    }
+  ],
+  "video": {
+    "lunacreciente": "https://www.youtube.com/watch?v=o6axPDGbCdo"
+  }
+}
