@@ -1,0 +1,91 @@
+{
+  "letter": "J",
+  "vowels": [
+    {
+      "vowel": {
+        "text": "a",
+        "sound": ""
+      },
+      "word": {
+        "text": "Jarra",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "e",
+        "sound": ""
+      },
+      "word": {
+        "text": "Jefe",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "i",
+        "sound": ""
+      },
+      "word": {
+        "text": "Jirafa",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "o",
+        "sound": ""
+      },
+      "word": {
+        "text": "Joya",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "u",
+        "sound": ""
+      },
+      "word": {
+        "text": "Juguete",
+        "sound": ""
+      }
+    }
+  ],
+  "words": [
+    {
+      "text": "Jaula",
+      "sound": ""
+    },
+    {
+      "text": "Jeringa",
+      "sound": ""
+    },
+    {
+      "text": "Jinete",
+      "sound": ""
+    },
+    {
+      "text": "Joyero",
+      "sound": ""
+    },
+    {
+      "text": "Jueves",
+      "sound": ""
+    }
+
+  ],
+  "sentences": [
+    {
+      "text": "El jueves voy a la escuela.",
+      "sound": ""
+    },
+    {
+      "text": "Mi hermana guarda sus joyas en un joyero",
+      "sound": ""
+    }
+  ],
+  "video": {
+    "lunacreciente": "https://www.youtube.com/watch?v=o6axPDGbCdo"
+  }
+}

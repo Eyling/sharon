@@ -1,0 +1,91 @@
+{
+  "letter": "C",
+  "vowels": [
+    {
+      "vowel": {
+        "text": "a",
+        "sound": ""
+      },
+      "word": {
+        "text": "Dado",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "e",
+        "sound": ""
+      },
+      "word": {
+        "text": "Dedo",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "i",
+        "sound": ""
+      },
+      "word": {
+        "text": "Diente",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "o",
+        "sound": ""
+      },
+      "word": {
+        "text": "Doce",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "u",
+        "sound": ""
+      },
+      "word": {
+        "text": "Ducha",
+        "sound": ""
+      }
+    }
+  ],
+  "words": [
+    {
+      "text": "Dama",
+      "sound": ""
+    },
+    {
+      "text": "Dedal",
+      "sound": ""
+    },
+    {
+      "text": "D&iacute;a",
+      "sound": ""
+    },
+    {
+      "text": "Dos",
+      "sound": ""
+    },
+    {
+      "text": "Duda",
+      "sound": ""
+    }
+
+  ],
+  "sentences": [
+    {
+      "text": "La dama va a la iglesia",
+      "sound": ""
+    },
+    {
+      "text": "Mi mam&aacute; tiene un dedal",
+      "sound": ""
+    }
+  ],
+  "video": {
+    "lunacreciente": "https://www.youtube.com/watch?v=o6axPDGbCdo"
+  }
+}

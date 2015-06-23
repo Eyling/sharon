@@ -1,0 +1,91 @@
+{
+  "letter": "F",
+  "vowels": [
+    {
+      "vowel": {
+        "text": "a",
+        "sound": ""
+      },
+      "word": {
+        "text": "F&acute;cil",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "e",
+        "sound": ""
+      },
+      "word": {
+        "text": "Feliz",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "i",
+        "sound": ""
+      },
+      "word": {
+        "text": "Fiebre",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "o",
+        "sound": ""
+      },
+      "word": {
+        "text": "Foca",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "u",
+        "sound": ""
+      },
+      "word": {
+        "text": "Fuente",
+        "sound": ""
+      }
+    }
+  ],
+  "words": [
+    {
+      "text": "Falda",
+      "sound": ""
+    },
+    {
+      "text": "Fecha",
+      "sound": ""
+    },
+    {
+      "text": "Fila",
+      "sound": ""
+    },
+    {
+      "text": "Foto",
+      "sound": ""
+    },
+    {
+      "text": "Fuerte",
+      "sound": ""
+    }
+
+  ],
+  "sentences": [
+    {
+      "text": "La falda de mi hermana es roja",
+      "sound": ""
+    },
+    {
+      "text": "La fila es muy larga",
+      "sound": ""
+    }
+  ],
+  "video": {
+    "lunacreciente": "https://www.youtube.com/watch?v=o6axPDGbCdo"
+  }
+}

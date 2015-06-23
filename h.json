@@ -1,0 +1,91 @@
+{
+  "letter": "H",
+  "vowels": [
+    {
+      "vowel": {
+        "text": "a",
+        "sound": ""
+      },
+      "word": {
+        "text": "Hacha",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "e",
+        "sound": ""
+      },
+      "word": {
+        "text": "Helado",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "i",
+        "sound": ""
+      },
+      "word": {
+        "text": "Hielo",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "o",
+        "sound": ""
+      },
+      "word": {
+        "text": "Hoja",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "u",
+        "sound": ""
+      },
+      "word": {
+        "text": "Hueso",
+        "sound": ""
+      }
+    }
+  ],
+  "words": [
+    {
+      "text": "Hada",
+      "sound": ""
+    },
+    {
+      "text": "Hermano",
+      "sound": ""
+    },
+    {
+      "text": "Hilo",
+      "sound": ""
+    },
+    {
+      "text": "Hotel",
+      "sound": ""
+    },
+    {
+      "text": "Humo",
+      "sound": ""
+    }
+
+  ],
+  "sentences": [
+    {
+      "text": "El hilo es de color rojo",
+      "sound": ""
+    },
+    {
+      "text": "Mi hermano juega f&uoacute;tbol",
+      "sound": ""
+    }
+  ],
+  "video": {
+    "lunacreciente": "https://www.youtube.com/watch?v=o6axPDGbCdo"
+  }
+}

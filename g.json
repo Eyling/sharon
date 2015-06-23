@@ -1,0 +1,91 @@
+{
+  "letter": "G",
+  "vowels": [
+    {
+      "vowel": {
+        "text": "a",
+        "sound": ""
+      },
+      "word": {
+        "text": "Gato",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "e",
+        "sound": ""
+      },
+      "word": {
+        "text": "Gema",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "i",
+        "sound": ""
+      },
+      "word": {
+        "text": "Girasol",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "o",
+        "sound": ""
+      },
+      "word": {
+        "text": "Goma",
+        "sound": ""
+      }
+    },
+    {
+      "vowel": {
+        "text": "u",
+        "sound": ""
+      },
+      "word": {
+        "text": "Gusano",
+        "sound": ""
+      }
+    }
+  ],
+  "words": [
+    {
+      "text": "Gallina",
+      "sound": ""
+    },
+    {
+      "text": "Gel",
+      "sound": ""
+    },
+    {
+      "text": "Gigante",
+      "sound": ""
+    },
+    {
+      "text": "Gota",
+      "sound": ""
+    },
+    {
+      "text": "Guante",
+      "sound": ""
+    }
+
+  ],
+  "sentences": [
+    {
+      "text": "Hay una gallina en la finca",
+      "sound": ""
+    },
+    {
+      "text": "Cae una gota de agua",
+      "sound": ""
+    }
+  ],
+  "video": {
+    "lunacreciente": "https://www.youtube.com/watch?v=o6axPDGbCdo"
+  }
+}
