@@ -1,5 +1,5 @@
 {
-  "letter": "D",
+  "letter": "L",
   "vowels": [
     {
       "vowel": {
@@ -7,7 +7,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Dado",
+        "text": "L&aacute;piz",
         "sound": ""
       }
     },
@@ -17,7 +17,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Dedo",
+        "text": "Leche",
         "sound": ""
       }
     },
@@ -27,7 +27,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Diente",
+        "text": "Lim&ooacute;n",
         "sound": ""
       }
     },
@@ -37,7 +37,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Doce",
+        "text": "Lobo",
         "sound": ""
       }
     },
@@ -47,41 +47,41 @@
         "sound": ""
       },
       "word": {
-        "text": "Ducha",
+        "text": "Luna",
         "sound": ""
       }
     }
   ],
   "words": [
     {
-      "text": "Dama",
+      "text": "Lana",
       "sound": ""
     },
     {
-      "text": "Dedal",
+      "text": "Letra",
       "sound": ""
     },
     {
-      "text": "D&iacute;a",
+      "text": "Libro",
       "sound": ""
     },
     {
-      "text": "Dos",
+      "text": "Loco",
       "sound": ""
     },
     {
-      "text": "Duda",
+      "text": "Lupa",
       "sound": ""
     }
 
   ],
   "sentences": [
     {
-      "text": "La dama va a la iglesia",
+      "text": "Los lobos viven en los bosques.",
       "sound": ""
     },
     {
-      "text": "Mi mam&aacute; tiene un dedal",
+      "text": "La luna aparece por las noches.",
       "sound": ""
     }
   ],

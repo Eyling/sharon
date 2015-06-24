@@ -1,5 +1,5 @@
 {
-  "letter": "D",
+  "letter": "P",
   "vowels": [
     {
       "vowel": {
@@ -7,7 +7,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Dado",
+        "text": "Pala",
         "sound": ""
       }
     },
@@ -17,7 +17,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Dedo",
+        "text": "Pedr",
         "sound": ""
       }
     },
@@ -27,7 +27,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Diente",
+        "text": "Piedra",
         "sound": ""
       }
     },
@@ -37,7 +37,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Doce",
+        "text": "Poco",
         "sound": ""
       }
     },
@@ -47,41 +47,41 @@
         "sound": ""
       },
       "word": {
-        "text": "Ducha",
+        "text": "Puerta",
         "sound": ""
       }
     }
   ],
   "words": [
     {
-      "text": "Dama",
+      "text": "Panda",
       "sound": ""
     },
     {
-      "text": "Dedal",
+      "text": "Peine",
       "sound": ""
     },
     {
-      "text": "D&iacute;a",
+      "text": "Pino",
       "sound": ""
     },
     {
-      "text": "Dos",
+      "text": "Porche",
       "sound": ""
     },
     {
-      "text": "Duda",
+      "text": "Puma",
       "sound": ""
     }
 
   ],
   "sentences": [
     {
-      "text": "La dama va a la iglesia",
+      "text": "El jueves voy a la escuela.",
       "sound": ""
     },
     {
-      "text": "Mi mam&aacute; tiene un dedal",
+      "text": "Mi hermana guarda sus joyas en un joyero",
       "sound": ""
     }
   ],

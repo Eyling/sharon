@@ -1,5 +1,5 @@
 {
-  "letter": "D",
+  "letter": "M",
   "vowels": [
     {
       "vowel": {
@@ -7,7 +7,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Dado",
+        "text": "Manzana",
         "sound": ""
       }
     },
@@ -17,7 +17,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Dedo",
+        "text": "Mesa",
         "sound": ""
       }
     },
@@ -27,7 +27,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Diente",
+        "text": "Misa",
         "sound": ""
       }
     },
@@ -37,7 +37,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Doce",
+        "text": "Molino",
         "sound": ""
       }
     },
@@ -47,41 +47,41 @@
         "sound": ""
       },
       "word": {
-        "text": "Ducha",
+        "text": "Mundo",
         "sound": ""
       }
     }
   ],
   "words": [
     {
-      "text": "Dama",
+      "text": "Martillo",
       "sound": ""
     },
     {
-      "text": "Dedal",
+      "text": "Mermelada",
       "sound": ""
     },
     {
-      "text": "D&iacute;a",
+      "text": "Misterio",
       "sound": ""
     },
     {
-      "text": "Dos",
+      "text": "Moneda",
       "sound": ""
     },
     {
-      "text": "Duda",
+      "text": "Moneda",
       "sound": ""
     }
 
   ],
   "sentences": [
     {
-      "text": "La dama va a la iglesia",
+      "text": "En la granja hay un molino.",
       "sound": ""
     },
     {
-      "text": "Mi mam&aacute; tiene un dedal",
+      "text": "Sobre la mesa hay un martillo",
       "sound": ""
     }
   ],

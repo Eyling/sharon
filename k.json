@@ -1,5 +1,5 @@
 {
-  "letter": "D",
+  "letter": "K",
   "vowels": [
     {
       "vowel": {
@@ -7,7 +7,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Dado",
+        "text": "Karate",
         "sound": ""
       }
     },
@@ -17,7 +17,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Dedo",
+        "text": "Kerm&eoacute;s",
         "sound": ""
       }
     },
@@ -27,7 +27,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Diente",
+        "text": "Kiwi",
         "sound": ""
       }
     },
@@ -37,7 +37,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Doce",
+        "text": "Koala",
         "sound": ""
       }
     },
@@ -47,41 +47,41 @@
         "sound": ""
       },
       "word": {
-        "text": "Ducha",
+        "text": "Kuwait",
         "sound": ""
       }
     }
   ],
   "words": [
     {
-      "text": "Dama",
+      "text": "Kayak",
       "sound": ""
     },
     {
-      "text": "Dedal",
+      "text": "Kenia",
       "sound": ""
     },
     {
-      "text": "D&iacute;a",
+      "text": "Kilo",
       "sound": ""
     },
     {
-      "text": "Dos",
+      "text": "Koala",
       "sound": ""
     },
     {
-      "text": "Duda",
+      "text": "Kung-fu",
       "sound": ""
     }
 
   ],
   "sentences": [
     {
-      "text": "La dama va a la iglesia",
+      "text": "Mi hermana esta aprendiendo Kung-fu.",
       "sound": ""
     },
     {
-      "text": "Mi mam&aacute; tiene un dedal",
+      "text": "Mi hermano fue a Kenia.",
       "sound": ""
     }
   ],

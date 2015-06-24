@@ -1,5 +1,5 @@
 {
-  "letter": "D",
+  "letter": "N",
   "vowels": [
     {
       "vowel": {
@@ -7,7 +7,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Dado",
+        "text": "Naranja",
         "sound": ""
       }
     },
@@ -17,7 +17,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Dedo",
+        "text": "Negro",
         "sound": ""
       }
     },
@@ -27,7 +27,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Diente",
+        "text": "Nido",
         "sound": ""
       }
     },
@@ -37,7 +37,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Doce",
+        "text": "Noche",
         "sound": ""
       }
     },
@@ -47,41 +47,41 @@
         "sound": ""
       },
       "word": {
-        "text": "Ducha",
+        "text": "Nube",
         "sound": ""
       }
     }
   ],
   "words": [
     {
-      "text": "Dama",
+      "text": "Nata",
       "sound": ""
     },
     {
-      "text": "Dedal",
+      "text": "Nemo",
       "sound": ""
     },
     {
-      "text": "D&iacute;a",
+      "text": "Nilo",
       "sound": ""
     },
     {
-      "text": "Dos",
+      "text": "Nota",
       "sound": ""
     },
     {
-      "text": "Duda",
+      "text": "Nuez",
       "sound": ""
     }
 
   ],
   "sentences": [
     {
-      "text": "La dama va a la iglesia",
+      "text": "El jueves voy a la escuela.",
       "sound": ""
     },
     {
-      "text": "Mi mam&aacute; tiene un dedal",
+      "text": "Mi hermana guarda sus joyas en un joyero",
       "sound": ""
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "letter": "D",
+  "letter": "Q",
   "vowels": [
     {
       "vowel": {
@@ -7,7 +7,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Dado",
+        "text": "Jarra",
         "sound": ""
       }
     },
@@ -17,7 +17,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Dedo",
+        "text": "Jefe",
         "sound": ""
       }
     },
@@ -27,7 +27,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Diente",
+        "text": "Jirafa",
         "sound": ""
       }
     },
@@ -37,7 +37,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Doce",
+        "text": "Joya",
         "sound": ""
       }
     },
@@ -47,41 +47,41 @@
         "sound": ""
       },
       "word": {
-        "text": "Ducha",
+        "text": "Queso",
         "sound": ""
       }
     }
   ],
   "words": [
     {
-      "text": "Dama",
+      "text": "Jaula",
       "sound": ""
     },
     {
-      "text": "Dedal",
+      "text": "Jeringa",
       "sound": ""
     },
     {
-      "text": "D&iacute;a",
+      "text": "Jinete",
       "sound": ""
     },
     {
-      "text": "Dos",
+      "text": "Joyero",
       "sound": ""
     },
     {
-      "text": "Duda",
+      "text": "Jueves",
       "sound": ""
     }
 
   ],
   "sentences": [
     {
-      "text": "La dama va a la iglesia",
+      "text": "El jueves voy a la escuela.",
       "sound": ""
     },
     {
-      "text": "Mi mam&aacute; tiene un dedal",
+      "text": "Mi hermana guarda sus joyas en un joyero",
       "sound": ""
     }
   ],
