@@ -1,5 +1,5 @@
 {
-  "letter": "K",
+  "letter": "T",
   "vowels": [
     {
       "vowel": {
@@ -7,7 +7,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Karate",
+        "text": "Tamal",
         "sound": ""
       }
     },
@@ -17,7 +17,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Kerm&eoacute;s",
+        "text": "Televisor",
         "sound": ""
       }
     },
@@ -27,7 +27,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Kiwi",
+        "text": "Tijera",
         "sound": ""
       }
     },
@@ -37,7 +37,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Koala",
+        "text": "Torta",
         "sound": ""
       }
     },
@@ -47,22 +47,45 @@
         "sound": ""
       },
       "word": {
-        "text": "Kuwait",
+        "text": "T&uacute;nel",
         "sound": ""
       }
     }
   ],
   "words": [
     {
-      "text": "Kayak",
+      "text": "Tapa",
       "sound": ""
     },
     {
-      "text": "Kenia",
+      "text": "Termo",
       "sound": ""
     },
     {
-      "text": "Kilo",
+      "text": "Tina",
       "sound": ""
     },
     {
+      "text": "Topo",
+      "sound": ""
+    },
+    {
+      "text": "Estatua",
+      "sound": ""
+    }
+
+  ],
+  "sentences": [
+    {
+      "text": "En el termo hay hielo.",
+      "sound": ""
+    },
+    {
+      "text": "Mi prima esta viendo la televisi&ooacute;n.",
+      "sound": ""
+    }
+  ],
+  "video": {
+    "lunacreciente": "https://www.youtube.com/watch?v=o6axPDGbCdo"
+  }
+}

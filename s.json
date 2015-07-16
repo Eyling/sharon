@@ -1,5 +1,5 @@
 {
-  "letter": "K",
+  "letter": "S",
   "vowels": [
     {
       "vowel": {
@@ -7,7 +7,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Karate",
+        "text": "Sand&ioacute;a",
         "sound": ""
       }
     },
@@ -17,7 +17,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Kerm&eoacute;s",
+        "text": "Semilla",
         "sound": ""
       }
     },
@@ -27,7 +27,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Kiwi",
+        "text": "Silla",
         "sound": ""
       }
     },
@@ -37,7 +37,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Koala",
+        "text": "Sol",
         "sound": ""
       }
     },
@@ -47,22 +47,45 @@
         "sound": ""
       },
       "word": {
-        "text": "Kuwait",
+        "text": "Suma",
         "sound": ""
       }
     }
   ],
   "words": [
     {
-      "text": "Kayak",
+      "text": "Sapo",
       "sound": ""
     },
     {
-      "text": "Kenia",
+      "text": "Semana",
       "sound": ""
     },
     {
-      "text": "Kilo",
+      "text": "Sirena",
       "sound": ""
     },
     {
+      "text": "Sombrero",
+      "sound": ""
+    },
+    {
+      "text": "Suelo",
+      "sound": ""
+    }
+
+  ],
+  "sentences": [
+    {
+      "text": "La semana inicia en lunes.",
+      "sound": ""
+    },
+    {
+      "text": "Mi hermana tiene un sombrero rosa.",
+      "sound": ""
+    }
+  ],
+  "video": {
+    "lunacreciente": "https://www.youtube.com/watch?v=o6axPDGbCdo"
+  }
+}

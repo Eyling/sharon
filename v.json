@@ -1,5 +1,5 @@
 {
-  "letter": "Q",
+  "letter": "V",
   "vowels": [
     {
       "vowel": {
@@ -7,7 +7,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Jarra",
+        "text": "Vaca",
         "sound": ""
       }
     },
@@ -17,7 +17,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Jefe",
+        "text": "Vela",
         "sound": ""
       }
     },
@@ -27,7 +27,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Jirafa",
+        "text": "Vino",
         "sound": ""
       }
     },
@@ -37,7 +37,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Joya",
+        "text": "Vocal",
         "sound": ""
       }
     },
@@ -47,41 +47,41 @@
         "sound": ""
       },
       "word": {
-        "text": "Queso",
+        "text": "Vuelo",
         "sound": ""
       }
     }
   ],
   "words": [
     {
-      "text": "Jaula",
+      "text": "Vaso",
       "sound": ""
     },
     {
-      "text": "Jeringa",
+      "text": "Venda",
       "sound": ""
     },
     {
-      "text": "Jinete",
+      "text": "Viernes",
       "sound": ""
     },
     {
-      "text": "Joyero",
+      "text": "Volar",
       "sound": ""
     },
     {
-      "text": "Jueves",
+      "text": "Vuelta",
       "sound": ""
     }
 
   ],
   "sentences": [
     {
-      "text": "El jueves voy a la escuela.",
+      "text": "Mi hermano debe usar una venda en su pie.",
       "sound": ""
     },
     {
-      "text": "Mi hermana guarda sus joyas en un joyero",
+      "text": "El viernes acaban las clases.",
       "sound": ""
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "letter": "K",
+  "letter": "Z",
   "vowels": [
     {
       "vowel": {
@@ -7,7 +7,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Karate",
+        "text": "Zapato",
         "sound": ""
       }
     },
@@ -17,7 +17,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Kerm&eoacute;s",
+        "text": "",
         "sound": ""
       }
     },
@@ -27,7 +27,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Kiwi",
+        "text": "Ziper",
         "sound": ""
       }
     },
@@ -37,7 +37,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Koala",
+        "text": "Zorro",
         "sound": ""
       }
     },
@@ -47,22 +47,45 @@
         "sound": ""
       },
       "word": {
-        "text": "Kuwait",
+        "text": "Zumo",
         "sound": ""
       }
     }
   ],
   "words": [
     {
-      "text": "Kayak",
+      "text": "Zancudo",
       "sound": ""
     },
     {
-      "text": "Kenia",
+      "text": "",
       "sound": ""
     },
     {
-      "text": "Kilo",
+      "text": "Ziper",
       "sound": ""
     },
     {
+      "text": "Zona",
+      "sound": ""
+    },
+    {
+      "text": "Zurdo;",
+      "sound": ""
+    }
+
+  ],
+  "sentences": [
+    {
+      "text": "Mi hermano es zurdo.",
+      "sound": ""
+    },
+    {
+      "text": "En la noche aparece un zorro.",
+      "sound": ""
+    }
+  ],
+  "video": {
+    "lunacreciente": "https://www.youtube.com/watch?v=o6axPDGbCdo"
+  }
+}

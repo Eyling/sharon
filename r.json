@@ -1,5 +1,5 @@
 {
-  "letter": "K",
+  "letter": "R",
   "vowels": [
     {
       "vowel": {
@@ -7,7 +7,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Karate",
+        "text": "Raro",
         "sound": ""
       }
     },
@@ -17,7 +17,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Kerm&eoacute;s",
+        "text": "Regla",
         "sound": ""
       }
     },
@@ -27,7 +27,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Kiwi",
+        "text": "Rima",
         "sound": ""
       }
     },
@@ -37,7 +37,7 @@
         "sound": ""
       },
       "word": {
-        "text": "Koala",
+        "text": "Roma",
         "sound": ""
       }
     },
@@ -47,22 +47,45 @@
         "sound": ""
       },
       "word": {
-        "text": "Kuwait",
+        "text": "Rubia",
         "sound": ""
       }
     }
   ],
   "words": [
     {
-      "text": "Kayak",
+      "text": "Rana",
       "sound": ""
     },
     {
-      "text": "Kenia",
+      "text": "Remo",
       "sound": ""
     },
     {
-      "text": "Kilo",
+      "text": "Risa",
       "sound": ""
     },
     {
+      "text": "Rojo",
+      "sound": ""
+    },
+    {
+      "text": "Rub&ioacute;",
+      "sound": ""
+    }
+
+  ],
+  "sentences": [
+    {
+      "text": "El otro mes mi hermana viaja a Roma.",
+      "sound": ""
+    },
+    {
+      "text": "El remo es de color rojo.",
+      "sound": ""
+    }
+  ],
+  "video": {
+    "lunacreciente": "https://www.youtube.com/watch?v=o6axPDGbCdo"
+  }
+}
